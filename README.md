@@ -1,7 +1,7 @@
 Hi 👋 My name is Jeferson Dalarmi
 ==========================
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gui-loko)](https://github.com/Jdalarmi)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermo-masid-494677b8/)]([https://www.linkedin.com/in/guilhermo-masid-494677b8/](https://www.linkedin.com/feed/))
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gui-loko)(https://github.com/Jdalarmi)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermo-masid-494677b8/)([https://www.linkedin.com/in/guilhermo-masid-494677b8/](https://www.linkedin.com/feed/))
 --------------------------
 
 I'm a 26-year-old developer learning back-end, coming from the people management area, and programming since 2022.
