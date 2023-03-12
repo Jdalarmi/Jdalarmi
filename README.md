@@ -9,7 +9,6 @@ I'm a 26-year-old developer learning back-end, coming from the people management
 
 * 🌍  I'm based in Atibaia-SP, Brazil
 * ✉️  You can contact me at [dalarmi.jeferson@icloud.com]
-* 🚀  I'm currently working on [Result Sistemas](http://resultsistemas.com)
 * 🧠  I'm learning intermediate python focus on back end
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
 * ⚡  I love sports and my favorite is Basketball
