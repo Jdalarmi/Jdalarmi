@@ -11,13 +11,7 @@ Olá 👋 Meu nome é Jeferson Dalarmi
 * 🤝  Estou aberto a colaborar em projetos que tenham alto impacto na vida das pessoas
 * ⚡  Paixão por academia e corrida 
 
-Python: :snake: -> :snake: (Django é frequentemente associado ao Python)
-PostgreSQL: :elephant: -> :elephant:
-HTML: :html: -> :html:
-CSS: :css: -> :css:
-SQL: :sql: -> :sql:
-Git: :git: -> :git:
-Docker: :docker: -> :docker:
+Python: :snake  PostgreSQL: :elephant: -> :elephant:HTML: :html: -> :html:CSS: :css: -> :css:SQL: :sql: -> :sql:Git: :git: -> :git: Docker: :docker: -> :docker:
 
 
 
