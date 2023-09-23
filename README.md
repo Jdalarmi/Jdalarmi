@@ -12,11 +12,6 @@ Olá 👋 Meu nome é Jeferson Dalarmi
 * ⚡  Paixão por academia e corrida 
 
 :snake: Python
-:djangoproject: Django
-:html: HTML
-:css: CSS
-:git: Git
-:docker: Docker
 :mysql: MySQL
 
 
