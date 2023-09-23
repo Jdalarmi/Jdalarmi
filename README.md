@@ -12,6 +12,7 @@ Olá 👋 Meu nome é Jeferson Dalarmi
 * ⚡  Paixão por academia e corrida 
 
 
-## Languages: <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/> <img src=https://cdn.icon-icons.com/icons2/2415/PNG/512/django_original_logo_icon_146559.png/> <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+## Languages: <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/> <img src=https://cdn.icon-icons.com/icons2/2415/PNG/512/django_original_logo_icon_146559.png/> <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> :snake: Django :elephant: PostgreSQL
+
 
 
