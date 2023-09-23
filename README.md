@@ -11,9 +11,6 @@ Olá 👋 Meu nome é Jeferson Dalarmi
 * 🤝  Estou aberto a colaborar em projetos que tenham alto impacto na vida das pessoas
 * ⚡  Paixão por academia e corrida 
 
-:snake: Python
-:mysql: MySQL
-
 
 
 
