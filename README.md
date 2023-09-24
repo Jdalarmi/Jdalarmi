@@ -7,10 +7,11 @@ Olá 👋 Meu nome é Jeferson Dalarmi
 
 * 🌍 Atibaia-SP, Brasil
 * ✉️  Você pode entrar em contato comigo pelo Email: dalarmi.jeferson@gmail.com
-* 🧠  Estudando Python foco no back-end e framework Django/Django REST
+* 🧠  Principal Skill é Python foco no back-end e framework Django/Django REST
 * 🤝  Estou aberto a colaborar em projetos que tenham alto impacto na vida das pessoas
 * ⚡  Paixão por academia e corrida 
 
+<i class="fa fa-github"></i>
 
 
 
