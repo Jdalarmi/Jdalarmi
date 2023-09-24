@@ -11,7 +11,11 @@ Olá 👋 Meu nome é Jeferson Dalarmi
 * 🤝  Estou aberto a colaborar em projetos que tenham alto impacto na vida das pessoas
 * ⚡  Paixão por academia e corrida 
 
-<i class="fa fa-github"></i>
+Minhas habilidades incluem:
 
-
+* ⚙️ Desenvolvimento web com Python e Django
+* 🐍 Programação em Python
+* 🌐 Desenvolvimento de API REST
+* 📦 Gerenciamento de pacotes com pip
+* 🐳 Uso de containers Docker
 
