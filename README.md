@@ -9,7 +9,7 @@ Desenvolvedor backend com habilidades em Django/Django REST e experiencia em ban
 * 🌍  I'm based in Atibaia - SP
 * 🖥️  See my portfolio at [My Portfolio](http://https://devjefersondalarmi.netlify.app/)
 * ✉️  You can contact me at [dalarmi.jeferson@gmail.com](mailto:dalarmi.jeferson@gmail.com)
-* 🧠  I'm learning AWS cloud e Scrum
+* 🧠  I'm learning Scrum | TDD | Cache | Celery
 
 ### Skills
 
