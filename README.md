@@ -7,7 +7,6 @@ Backend Developer
 Desenvolvedor backend com habilidades em Django/Django REST e experiencia em bancos de dados SQL e NoSQL. Grande habilidade com metodologias ágeis e organização de projetos. Criação de API com manipulação de dados e resposta em JSON.
 
 * 🌍  I'm based in Atibaia - SP
-* 🖥️  See my portfolio at [My Portfolio](http://https://devjefersondalarmi.netlify.app/)
 * ✉️  You can contact me at [dalarmi.jeferson@gmail.com](mailto:dalarmi.jeferson@gmail.com)
 * 🧠  I'm learning Scrum | TDD | Cache | Celery
 
