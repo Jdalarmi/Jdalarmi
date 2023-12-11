@@ -6,7 +6,7 @@ Backend Developer
 
 Tenho 27 anos, ingressei na aréa de tecnologia em 2022 após fazer transição de carreira da aréa de gestão de pessoas que atuei por 7 anos.
 
-Sou Desenvolvedor Python backend com habilidades em Django/Django REST, experiencia em modelagem de bancos de dados SQL. Grande habilidade em criação de API’s com metodologias ágeis e organização de projetos. Meus projetos foram realizados com as seguintes tecnologias: Python, Django REST, SQL.
+Sou Desenvolvedor Python backend com habilidades em Django/Django REST, experiencia em modelagem de bancos de dados SQL. Grande habilidade em criação de API’s com metodologias ágeis e organização de projetos. Meus projetos foram realizados com as seguintes tecnologias: Python, Django, DRF, PostgreSQL, Swagger, HTM5, CSS.
 
 * 🌍  I'm based in Atibaia - SP
 * ✉️  You can contact me at [dalarmi.jeferson@gmail.com](mailto:dalarmi.jeferson@gmail.com)
