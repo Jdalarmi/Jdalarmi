@@ -8,7 +8,7 @@ Sou Desenvolvedor Python backend com habilidades em Django/Django REST, experien
 
 * 🌍  I'm based in Atibaia - SP
 * ✉️  You can contact me at [dalarmi.jeferson@gmail.com](mailto:dalarmi.jeferson@gmail.com)
-* 🧠  I'm learning   RabbitMQ | Celery
+* 🧠  I'm learning   Redis 
 
 
 
