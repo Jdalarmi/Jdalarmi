@@ -4,16 +4,12 @@ Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 Backend Developer
 -----------------
 
-Sou um desenvolvedor backend especializado em python com 2 anos de experiência em desenvolvimento de
-software.
-Meu foco principal é em tecnologias Python, destacando-se em framework Django|DjangoREST e FastAPI..
-Com um histórico comprovado de adaptação eficiente a novos desafios, estou comprometido em compreender
-profundamente a lógica de desenvolvimento e os objetivos de negócios dos projetos em que me envolvo.
-
+Desenvolvedor Python backend com expertise em Django, Django REST e FastAPI.
+Capacidade de adaptação a novos desafios e compromisso em entender a lógica de desenvolvimento e objetivos de negócios dos projetos.
 
 * 🌍  I'm based in Atibaia - SP
 * ✉️  You can contact me at [dalarmi.jeferson@gmail.com](mailto:dalarmi.jeferson@gmail.com)
-* 🧠  I'm learning   Redis 
+* 🧠  I'm learning   Terraform
 
 
 
