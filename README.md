@@ -7,9 +7,8 @@ Backend Developer
 Desenvolvedor Python backend com expertise em Django, Django REST e FastAPI.
 Capacidade de adaptação a novos desafios e compromisso em entender a lógica de desenvolvimento e objetivos de negócios dos projetos.
 
-* 🌍  I'm based in Atibaia - SP
-* ✉️  You can contact me at [dalarmi.jeferson@gmail.com](mailto:dalarmi.jeferson@gmail.com)
-* 🧠  I'm learning   Terraform
+* ✉️  Você pode entrar em contato comigo por meio do Email: [dalarmi.jeferson@gmail.com](mailto:dalarmi.jeferson@gmail.com)
+
 
 
 
