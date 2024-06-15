@@ -1,8 +1,5 @@
-Backend Developer - (Python)!
+                                         Backend Developer
 ========================================================================================================================================
-
-Backend Developer
------------------
 
 Desenvolvedor Python backend com expertise em Django, Django REST e FastAPI.
 Capacidade de adaptação a novos desafios e compromisso em entender a lógica de desenvolvimento e objetivos de negócios dos projetos.
