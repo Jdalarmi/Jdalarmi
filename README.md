@@ -1,8 +1,7 @@
 # Backend Developer![github](https://github.com/Jdalarmi/Jdalarmi/assets/121770443/4936f5e7-ecf7-41c5-8e2f-4e92b9afda87)
 
 
-Desenvolvedor Python backend com expertise em Django, Django REST e FastAPI.
-Capacidade de adaptação a novos desafios e compromisso em entender a lógica de desenvolvimento e objetivos de negócios dos projetos.
+Atuo com desemvolvimento backend com foco em tecnologias Python, destacando-se em framework FastAPI, Flask, Django, DRF. Criação de API's, integrações e operações com banco de dados.
 
 * ✉️  Você pode entrar em contato comigo por através do Email: [dalarmi.jeferson@gmail.com](mailto:dalarmi.jeferson@gmail.com)
 
